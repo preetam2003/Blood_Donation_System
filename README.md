@@ -32,11 +32,6 @@ Welcome to the Blood Donation System project. This web-based application allows 
 1.  **Prerequisites:**
     - Install [XAMPP](https://www.apachefriends.org/index.html) or WAMP.
 
-2.  **Clone the Repository:**
-    ```bash
-    cd C:\xampp\htdocs\
-    git clone https://github.com/preetam2003/Blood_Donation_System.git
-    ```
 
 3.  **Database Configuration:**
     - Open XAMPP Control Panel and start **Apache** and **MySQL**.
@@ -49,16 +44,6 @@ Welcome to the Blood Donation System project. This web-based application allows 
 4.  **Run the Application:**
     - Open your browser and visit:
       [http://localhost/blood donation/Blood-Bank-And-Donation-Management-System-master/home.php](http://localhost/blood%20donation/Blood-Bank-And-Donation-Management-System-master/home.php)
-
-## 🔑 Admin Credentials
-
-To access the Admin Panel, visit:
-[http://localhost/blood donation/Blood-Bank-And-Donation-Management-System-master/admin/login.php](http://localhost/blood%20donation/Blood-Bank-And-Donation-Management-System-master/admin/login.php)
-
-- **Username:** `admin` (Check database or original readme if different. The original README said `varunsardana004`/`123` but generic is better unless verified. I'll stick to the original credentials mentioned for safety or note them.)
-- **Default Credentials:**
-    - Username: `varunsardana004`
-    - Password: `123`
 
 ## 📂 Project Structure
 
